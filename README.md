@@ -30,4 +30,5 @@ Python 3.x
 Running the Game
 
 To run the game, simply execute the Python script:
+    
     python adventure_game.py
